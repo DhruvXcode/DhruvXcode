@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dhruv 👋
 
-<!--
-**DhruvXcode/DhruvXcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Just starting out on my coding journey  
+🌱 Currently learning **Python, Web Development, and R**  
+📚 Exploring how tech, business, and startups connect  
+⚡ Fun fact: I break more code than I build (but that’s how I learn 😅)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What you’ll find here
+- Small practice projects as I learn new concepts  
+- Experiments with web development & automation  
+- My progress as I grow from beginner → builder  
+
+---
+
+### 🌍 Connect with me
+- [LinkedIn]([your-link](https://www.linkedin.com/in/dhruv-gupta-12379b270/))  
+- [Email](mailto:gdhruv1677@gmail.com)  
+
+---
+
+⭐️ *Follow along if you’re also figuring things out — let’s grow together!*

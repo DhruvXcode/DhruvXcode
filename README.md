@@ -15,7 +15,7 @@
 ---
 
 ### 🌍 Connect with me
-- [LinkedIn]([your-link](https://www.linkedin.com/in/dhruv-gupta-12379b270/))  
+- [LinkedIn]((https://www.linkedin.com/in/dhruv-gupta-12379b270/))  
 - [Email](mailto:gdhruv1677@gmail.com)  
 
 ---

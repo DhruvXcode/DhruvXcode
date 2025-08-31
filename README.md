@@ -1,6 +1,6 @@
 # 👋 Yo, Dhruv here
 
-I use this GitHub as a **sandbox** to explore how **AI & Agents** can be applied to real-world finance problems, with no bs.
+I use this GitHub as a **sandbox** to explore how **AI & Agents** can be applied to real-world **finance problems**, with no bs.
 
 Too many people slap "agentic" on half-baked workflows just to ease their FOMO. I think they’re missing the real potential of this revolution. Through these **experiments**, I’m digging deeper. (*Note: these are not production-grade projects, just raw exploration.*)
 

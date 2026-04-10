@@ -17,5 +17,5 @@ Now, I’m focused on merging my finance background with technology, **experimen
 
 ### 📬 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dhruv-gupta-12379b270/)
-- [Website](https://dhruvxcode.github.io/)
+- [Website](https://dhruvxcode.github.io/) (just a template, not real website yet!)
 - [Email](mailto:gdhruv1677@gmail.com)

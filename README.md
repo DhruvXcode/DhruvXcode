@@ -9,7 +9,7 @@ Too many people slap "agentic" on half-baked workflows just to ease their FOMO. 
 ### 🚀 About me
 I'm a B.Com (Hons) student with a strong interest in **consulting, finance, business analysis, and market research**. I co-founded the **180 Degrees Consulting** branch at my college, part of the world’s largest student-led consultancy.
 
-I’ve had a long-standing passion for Python and automation. Back in school, I combined that with my graphic design skills to build a variety of mini Python projects—just for the fun of creating.
+I’ve had a long-standing passion for Python and automation. Back in school, I combined that with my graphic design skills to build a variety of mini Python projects,just for the fun of creating.
 
 Now, I’m focused on merging my finance background with technology, **experimenting** with how AI and agents can be used to solve **real-world problems**.
 
